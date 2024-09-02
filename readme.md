@@ -5,7 +5,7 @@ My first time working with Arduino. This project is a simple LED alternator that
 
 ### Features
 The project has the following features:
-- Alternates between two LEDs at regular intervals.
+- Alternates between three LEDs at regular intervals.
 - Uses an ESP32 microcontroller for LED control.
 - Establishes a Wi-Fi connection to communicate with a remote device.
 - Provides a web interface to control the LEDs remotely.
