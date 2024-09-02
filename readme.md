@@ -1,5 +1,7 @@
 # IoT 001 - RC Led Alternator
 
+![RC Led Alternator](RC-Led-Alternator.png)
+
 ### Project description
 My first time working with Arduino. This project is a simple LED alternator that can be controlled remotely. The project uses an ESP32 microcontroller to control the LEDs and establish a communication link with a remote device over Wi-Fi. The remote control feature allows users to start and stop the LEDs wirelessly. It provides a convenient way to interact with the LED blinking process without the need for physical buttons or switches. The project is implemented using Arduino and ESP-IDF frameworks, making it easy to customize and extend the functionality according to specific requirements.
 
